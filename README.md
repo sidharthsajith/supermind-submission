@@ -66,12 +66,5 @@ This project is an analytics dashboard designed to fetch engagement data from mo
 ## Contributions
 Contributions are welcome! Please fork the repository and create a pull request. For major changes, please open an issue first to discuss.
 
-## Acknowledgments
-- Special thanks to DataStax and Langflow for their robust platforms.
-- Inspired by the need for efficient social media analytics tools.
-
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
-
-## Contact
-For inquiries, contact [your_email@example.com](mailto:your_email@example.com).

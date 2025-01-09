@@ -1,8 +1,3 @@
-# Social Media Performance Analytics Dashboard
-
-## Tagline
-"Unlocking Social Insights with Langflow & DataStax"
-
 ## Overview
 This project is an analytics dashboard designed to fetch engagement data from mock social media accounts, store it in DataStax Astra DB, and use Langflow with GPT integration to provide actionable insights. It aims to empower social media strategy with data-driven analytics.
 
